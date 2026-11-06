@@ -1,0 +1,17 @@
+# Genomic and database inputs
+contigs/
+databases/
+
+# Intermediate runs and proprietary lead assets
+data/
+*.fna
+*.fasta
+*.faa
+*.tsv
+*.pdb
+
+# Python / Environment caches
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
