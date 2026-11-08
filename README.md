@@ -1,6 +1,6 @@
 # Autonomous Extremophile AMP Bioprospecting Engine
 
-![Hero Dashboard](assests/hero_preview.png)
+![Hero Dashboard](assets/hero_preview.png)
 ![Atomic Workbench](assets/workbench_preview.png)
 
 An automated computational bioprospecting pipeline for mining, filtering, dereplicating, and structurally profiling novel antimicrobial peptides (AMPs) from extremophile genomic assemblies taken from NCBI database.
