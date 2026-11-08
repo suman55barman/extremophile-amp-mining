@@ -1,5 +1,8 @@
 # Autonomous Extremophile AMP Bioprospecting Engine
 
+![Hero Dashboard](assests/hero_preview.png)
+![Atomic Workbench](assets/workbench_preview.png)
+
 An automated computational bioprospecting pipeline for mining, filtering, dereplicating, and structurally profiling novel antimicrobial peptides (AMPs) from extremophile genomic assemblies taken from NCBI database.
 
 The pipeline combines ab initio smORF extraction, an orthogonal consensus prediction framework (Macrel Random Forest combined with a custom made RBF-kernel SVM), two-factor safety classification (hemolysis and mammalian cytotoxicity), sequence dereplication against the DRAMP database via local BLASTp, and a multi-parametric 100-point biophysical developability scoring system before submitting prioritized leads to Meta's ESMFold API for 3D atomic coordinate modeling.

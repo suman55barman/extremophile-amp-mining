@@ -1,6 +1,7 @@
 # Genomic and database inputs
 contigs/
 databases/
+models/
 
 # Intermediate runs and proprietary lead assets
 data/
